@@ -49,8 +49,8 @@ For any questions or feedback, please contact:
 - LinkedIn: [Vi Nguyen](https://www.linkedin.com/in/vi-nguyen-946a08319/)
   <!-- Replace the image_url with the URL of your logo image -->
 <a href="mailto:nhv.analysis@gmail.com">
-  <img src="image_url" alt="Mail" width="100" height="100">
+  <img src="mail.jpg" alt="Mail" width="100" height="100">
 </a>
 <a href="https://www.linkedin.com/in/vi-nguyen-946a08319/">
-  <img src="linkedin_logo_url" alt="LinkedIn" width="30" height="30">
+  <img src="linkin.png" alt="LinkedIn" width="100" height="100">
 </a>
