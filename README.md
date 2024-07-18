@@ -48,18 +48,11 @@ For any questions or feedback, please contact:
 - Email: [nhv.analysis@gmail.com](mailto:nhv.analysis@gmail.com)
 - LinkedIn: [Vi Nguyen](https://www.linkedin.com/in/vi-nguyen-946a08319/)
 
-<style>
-  .logo-container {
-    text-align: center;
-  }
-</style>
-
-<!-- Replace the image_url with the URL of your logo image -->
-<div class="logo-container">
+<div style="text-align: center;">
   <a href="mailto:nhv.analysis@gmail.com">
-    <img src="mail.jpg" alt="Logo" width="100" height="100">
+    <img src="mail.jpg" alt="Logo" width="100" height="100" style="display: inline-block; margin-right: 10px;">
   </a>
   <a href="https://www.linkedin.com/in/vi-nguyen-946a08319/">
-    <img src="linkin.png" alt="LinkedIn" width="100" height="100">
+    <img src="linkin.png" alt="LinkedIn" width="100" height="100" style="display: inline-block;">
   </a>
 </div>
