@@ -28,14 +28,13 @@ Main class that handles the web scraping process.
 
 Here is an example of the output structure for a stock code `VNM`:
 
-Data/
-└── Data_VNM/
-    ├── Data_VNM_Category1/
-    │   └── Data_VNM_10_articles.xlsx
-    ├── Data_VNM_Category2/
-    │   └── Data_VNM_8_articles.xlsx
-    └── ...
-
+- Data/
+  - Data_VNM/
+    - Data_VNM_Category1/
+      - Data_VNM_10_articles.xlsx
+    - Data_VNM_Category2/
+      - Data_VNM_8_articles.xlsx
+    - ...
 
 
 ## Acknowledgements
@@ -45,4 +44,6 @@ Data/
 
 ## Contact
 
-For any questions or feedback, please contact [nhv.analysis@gmail.com](mailto:nhv.analysis@gmail.com).
+For any questions or feedback, please contact:
+- Email: [nhv.analysis@gmail.com](mailto:nhv.analysis@gmail.com)
+- LinkedIn: [Vi Nguyen](https://www.linkedin.com/in/vi-nguyen-946a08319/)
