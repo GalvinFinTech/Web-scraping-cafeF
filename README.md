@@ -47,10 +47,19 @@ Here is an example of the output structure for a stock code `VNM`:
 For any questions or feedback, please contact:
 - Email: [nhv.analysis@gmail.com](mailto:nhv.analysis@gmail.com)
 - LinkedIn: [Vi Nguyen](https://www.linkedin.com/in/vi-nguyen-946a08319/)
-  <!-- Replace the image_url with the URL of your logo image -->
-<a href="mailto:nhv.analysis@gmail.com">
-  <img src="mail.jpg" alt="Mail" width="100" height="100">
-</a>
-<a href="https://www.linkedin.com/in/vi-nguyen-946a08319/">
-  <img src="linkin.png" alt="LinkedIn" width="100" height="100">
-</a>
+
+<style>
+  .logo-container {
+    text-align: center;
+  }
+</style>
+
+<!-- Replace the image_url with the URL of your logo image -->
+<div class="logo-container">
+  <a href="mailto:nhv.analysis@gmail.com">
+    <img src="mail.jpg" alt="Logo" width="100" height="100">
+  </a>
+  <a href="https://www.linkedin.com/in/vi-nguyen-946a08319/">
+    <img src="linkin.png" alt="LinkedIn" width="100" height="100">
+  </a>
+</div>
